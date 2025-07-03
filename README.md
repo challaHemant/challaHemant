@@ -21,20 +21,20 @@
 <!-- LeetCode Info Section -->
 <div align="center">
   <h2>
-    <img src="leetcode-logo.webp" alt="LeetCode Logo" height="30" style="vertical-align: middle; margin-right: 8px;" />
+    <img src="leetcode logo.webp" alt="LeetCode Logo" height="30" style="vertical-align: middle; margin-right: 8px;" />
     LeetCode Info
   </h2>
 
   <!-- Badges Section -->
   <p align="center">
     <a href="https://leetcode.com/u/Challahemanth/" target="_blank">
-      <img src="/badge.gif" alt="Badge 1" height="200" width="200" />
+      <img src="/badge.gif" alt="badge.gif" height="200" width="200" />
     </a>
     <a href="https://leetcode.com/u/Challahemanth/" target="_blank">
-      <img src="/badge.gif" alt="Badge 2" height="200" width="200" />
+      <img src="/badge.gif" alt="aug.gif" height="200" width="200" />
     </a>
     <a href="https://leetcode.com/u/Challahemanth/" target="_blank">
-      <img src="/half.gif" alt="Badge 3" height="200" width="200" />
+      <img src="/half.gif" alt="half.gif" height="200" width="200" />
     </a>
   </p>
 
