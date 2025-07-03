@@ -1,8 +1,8 @@
-<!-- Profile README for Nishant-Tiwari24 -->
+<!-- Profile README for Challa Hemanth -->
 
 <h1 align="center">Hi 👋, I'm Challa Hemanth</h1>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nishant-Tiwari24&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ChallaHemanth&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 <p align="center">
@@ -14,9 +14,7 @@
 ## 🏅 LeetCode Medals
 ![LeetCode Stats](https://img.shields.io/badge/dynamic/json?color=orange&label=LeetCode%20Solved&query=%24.totalSolved&url=https%3A%2F%2Fleetcode-stats-api.herokuapp.com%2FChallahemanth)
 
-<!-- 🐍 Contributions Snake Animation -->
-<h2>🐍 Contributions 🐍</h2>
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+
 
 <!-- LeetCode Info Section -->
 <div align="center">
