@@ -14,11 +14,6 @@
 ## 🏅 LeetCode Medals
 ![LeetCode Stats](https://img.shields.io/badge/dynamic/json?color=orange&label=LeetCode%20Solved&query=%24.totalSolved&url=https%3A%2F%2Fleetcode-stats-api.herokuapp.com%2FChallahemanth)
 
-<p align="center">
-  <img src="https://leetcode.com/medal/?showImg=0&id=4774762&isLevel=false" alt="LeetCode Medal 1" width="150"/>
-  <img src="https://leetcode.com/medal/?showImg=0&id=6073154&isLevel=false" alt="LeetCode Medal 2" width="150"/>
-  <img src="https://leetcode.com/medal/?showImg=0&id=4822638&isLevel=false" alt="LeetCode Medal 3" width="150"/>
-</p>
 <!-- 🐍 Contributions Snake Animation -->
 <h2>🐍 Contributions 🐍</h2>
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
