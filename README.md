@@ -28,13 +28,13 @@
   <!-- Badges Section -->
   <p align="center">
     <a href="https://leetcode.com/u/Challahemanth/" target="_blank">
-      <img src="/badge.gif" alt="badge.gif" height="200" width="200" />
+      <img src="/Challa-Hemanth/badge.gif" alt="badge.gif" height="200" width="200" />
     </a>
     <a href="https://leetcode.com/u/Challahemanth/" target="_blank">
-      <img src="/badge.gif" alt="aug.gif" height="200" width="200" />
+      <img src="/Challa-Hemanth/aug.gif" alt="aug.gif" height="200" width="200" />
     </a>
     <a href="https://leetcode.com/u/Challahemanth/" target="_blank">
-      <img src="/half.gif" alt="half.gif" height="200" width="200" />
+      <img src="/Challa-Hemanth/half.gif" alt="half.gif" height="200" width="200" />
     </a>
   </p>
 
