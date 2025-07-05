@@ -8,6 +8,21 @@
 <p align="center">
   <strong>🏡 Bangalore, India | 💼 DevOps / FullStack Developer | </strong>
 </p>
+<table>
+  <thead>
+    <tr>
+      <th>#</th>
+      <th>Hackathon</th>
+      <th>Track</th>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>Juspay Hiring Challenge by Internshala</td>
+      <td>External</td>
+    </tr>
+  </tbody>
+</table>
 
 
 
