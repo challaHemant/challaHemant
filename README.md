@@ -34,7 +34,7 @@
 <!-- LeetCode Info Section -->
 <div align="center">
   <h2>
-    <img src="leetcode logo.webp" alt="LeetCode Logo" height="30" style="vertical-align: middle; margin-right: 8px;" />
+    <img src="leetcode logo.webp" alt="LeetCode Logo" height="30" width="30" style="vertical-align: middle; margin-right: 8px;" />
     LeetCode Info
   </h2>
 
