@@ -1,9 +1,7 @@
 <!-- Profile README for Challa Hemanth -->
 
 <h1 align="center">Hi 👋, I'm Challa Hemanth</h1>
-<p align="center">
- ![Profile views](https://komarev.com/ghpvc/?username=ChallaHemanth&label=Profile%20views&color=0e75b6&style=flat)
-</p>
+
 
 <p align="center">
   <strong>🏡 Bangalore, India | 💼 DevOps / FullStack Developer | </strong>
