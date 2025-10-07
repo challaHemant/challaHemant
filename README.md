@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <strong>🏡 Bangalore, India | 💼 DevOps / FullStack Developer | </strong>
+  <strong> Bangalore, India |  DevOps / FullStack Developer | </strong>
 </p>
 
 
