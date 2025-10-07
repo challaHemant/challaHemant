@@ -40,7 +40,7 @@
   <img align="top" src="https://leetcard.jacoblin.cool/Challahemanth?theme=dark&font=Nunito&ext=heatmap" />
 
   <!-- GitHub Stats -->
-  <h2>💻 Tech Stack</h2>
+  <h2> Tech Stack</h2>
 <br/>
 
 <!-- Programming Languages -->
