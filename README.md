@@ -44,13 +44,13 @@
 <br/>
 
 <!-- Programming Languages -->
-<h3>🧠 Programming Languages</h3>
+<h3> Programming Languages</h3>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,c" height="48" alt="Programming Languages" />
 </p>
 
 <!-- Cloud & DevOps -->
-<h3>☁️ Cloud & DevOps</h3>
+<h3> Cloud & DevOps</h3>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,git,github,gitlab" height="48" alt="DevOps Tools" />
   <img src="https://img.shields.io/badge/CI%2FCD-blue?style=for-the-badge&logo=githubactions&logoColor=white" height="28" alt="CI/CD" />
@@ -58,7 +58,7 @@
 </p>
 
 <!-- Web Technologies -->
-<h3>🌐 Web Technologies</h3>
+<h3> Web Technologies</h3>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,html,css,nodejs,express,typescript,spring,fastapi" height="48" alt="Web Technologies" />
   <img src="https://img.shields.io/badge/socket.io-black?style=for-the-badge&logo=socket.io&logoColor=white" height="28" alt="Socket.io" />
@@ -66,14 +66,14 @@
 </p>
 
 <!-- Databases -->
-<h3>🗄️ Databases</h3>
+<h3> Databases</h3>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb" height="48" alt="Databases" />
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="28" alt="SQL Server" />
 </p>
 
 <!-- Soft Skills -->
-<h3>🤝 Soft Skills</h3>
+<h3> Soft Skills</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/Problem%20Solving-0078D4?style=for-the-badge&logo=hackerrank&logoColor=white" height="28" alt="Problem Solving" />
   <img src="https://img.shields.io/badge/Team%20Collaboration-00A98F?style=for-the-badge&logo=googlemeet&logoColor=white" height="28" alt="Team Collaboration" />
